@@ -17,24 +17,7 @@
 
 ---
 
-### 📌Pinned Repositories
 
-<p align="left">
-<a href="https://github.com/shazx06/Student_management_system">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=shazx06&repo=Python&SQLite-Student_management_system&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/shazx06/calculator_using_tkinter">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=shazx06&repo=Python-CalculatorUsingTkinter&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/shazx06/Music_player">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=shazx06&repo=PyGTk-MusicPlayer&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/shazx06/restaurant_using_tkinter">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=shazx06&repo=restaurant Management&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-</p>
-
----
 
 ### 🛠 Languages and Tools
 

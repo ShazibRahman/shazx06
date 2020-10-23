@@ -82,7 +82,7 @@
 
 <p align="center">
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
+  <img src="https://profile-counter.glitch.me/shazx06/count.svg" />
   </br>
       <img align="center" alt="GIF" src="https://github.com/shazx06/shazx06/blob/master/assets/code.gif?raw=true" width="750" height="520" />
 </p>

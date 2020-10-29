@@ -52,7 +52,7 @@
 
 [![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/19hh4ykyfo2rjtm2zzjhg1tyy)
 
-[![Spotify](https://manojuppala.vercel.app/api/spotify)](https://open.spotify.com/user/19hh4ykyfo2rjtm2zzjhg1tyy)
+[![Spotify](https://shazx06.vercel.app/api/spotify)](https://open.spotify.com/user/19hh4ykyfo2rjtm2zzjhg1tyy)
 
 <details>
 <summary>✅ GitHub Analytics</summary>

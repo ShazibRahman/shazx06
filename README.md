@@ -54,7 +54,7 @@
 
 [![Spotify](https://shazx06.vercel.app/api/spotify)](https://open.spotify.com/user/19hh4ykyfo2rjtm2zzjhg1tyy)
 
-<details>
+<!-- <details> -->
 <summary>✅ GitHub Analytics</summary>
 <p align="left">
 <a href="https://github.com/shazx06">
@@ -63,7 +63,7 @@
 
 </a>
 </p>
-</details>
+
 
 <details>
   <summary>✅ Recent Github Activity</summary>

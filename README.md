@@ -56,19 +56,18 @@
 
 <!-- <details> -->
 
----
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.shazx06.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
+<details>
+  <summary>GitHub Stats</summary>
 
----
+  <img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
 
-
+</details>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-
+<br>
 
 ---
 

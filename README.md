@@ -59,7 +59,7 @@
 ✅ GitHub Stats
 
 <img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=truelayout=compact&theme=radical" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazx06&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazx06&layout=compact&theme=radical" />
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->

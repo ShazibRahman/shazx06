@@ -55,24 +55,20 @@
 [![Spotify](https://shazx06.vercel.app/api/spotify)](https://open.spotify.com/user/19hh4ykyfo2rjtm2zzjhg1tyy)
 
 <!-- <details> -->
-<summary>✅ GitHub Analytics</summary>
-<p align="left">
-<a href="https://github.com/shazx06">
-  <img height="160em" src="https://github-readme-stats-git-master.shazx06.vercel.app/api?username=shazx06a&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazx06&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 
-</a>
-</p>
+---
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.shazx06.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
+
+---
 
 
-<details>
-  <summary>✅ Recent Github Activity</summary>
-  <img align="center" width="200" height="150" src="https://github.com/shazx06/shazx06/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true"><h2>Comming soon..</h2>
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
+
 
 ---
 

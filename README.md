@@ -56,10 +56,10 @@
 
 <!-- <details> -->
 
-<summary>GitHub Stats</summary>
+✅ GitHub Stats
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazx06&layout=compact" />
+<img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=shazx06&layout=compact" />
 
 <!--START_SECTION:activity-->
 

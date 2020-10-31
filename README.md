@@ -58,8 +58,8 @@
 
 <summary>GitHub Stats</summary>
 
-<img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
-
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazx06&layout=compact" />
 
 <!--START_SECTION:activity-->
 

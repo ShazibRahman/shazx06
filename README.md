@@ -56,20 +56,27 @@
 
 <!-- <details> -->
 
-<details>
-  <summary>GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
-  <img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
+<img align="left"  src="https://github-readme-stats.codestackr.vercel.app/api?username=shazx06&show_icons=true&hide_border=true" />
 
-</details>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
 <br>
-
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🏄follow me on
 
